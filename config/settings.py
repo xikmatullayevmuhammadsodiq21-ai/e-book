@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-68tx@1#!^h(1l6+z#t8*hl0d^2l)_f4a2j^)zb7a0&&c&aqe*%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['eBooksite.pythonanywhere.com']
 
 
 # Application definition
